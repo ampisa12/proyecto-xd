@@ -1,0 +1,28 @@
+nav{
+    background-color: rgb(26, 167, 223);
+}
+
+ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+ul li{
+    float: left;
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 14px;
+}
+
+ul li a:hover{
+    background-color: rgb(80, 225, 230);
+}
+
+.menuActivo{
+    background-color: blue;
+}
+
